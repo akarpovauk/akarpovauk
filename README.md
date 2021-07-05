@@ -3,6 +3,11 @@
 ## I'm a beginner *Front-end developer* from Cheshire UK.
 ## 🌱 I’m currently learning: [WEB-разработчик 2021](https://www.udemy.com/course/webdeveloper/)
 ### check my blog: [true_story](https://www.instagram.com/_true_story._/?hl=ru)
+### Languages and Technologies
+![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![BEM](https://img.shields.io/badge/-BEM-white?style=for-the-badge&logo=BEM)
+![SCSS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
 
 <!--
 **akarpovauk/akarpovauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
