@@ -1,7 +1,7 @@
 ## Hi there 👋
 # My name is **Alena Karpova**
 ## I'm a beginner *Front-end developer* from Cheshire UK.
-## 🌱 I’m currently learning [WEB-разработчик 2021](https://www.udemy.com/course/webdeveloper/)
+## 🌱 I’m currently learning: [WEB-разработчик 2021](https://www.udemy.com/course/webdeveloper/)
 ### check my blog: [true_story](https://www.instagram.com/_true_story._/?hl=ru)
 
 <!--
