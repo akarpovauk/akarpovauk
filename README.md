@@ -10,11 +10,11 @@
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![BEM](https://img.shields.io/badge/-BEM-white?style=for-the-badge&logo=BEM)
-![SCSS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![BEM](https://img.shields.io/badge/-BEM-blue?style=for-the-badge&logo=BEM)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 <!--
 **akarpovauk/akarpovauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
