@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My name is **Alena K**
+# My name is Alena Karpova
 ## I'm a *Front-end developer* from Cheshire UK
 ## 🌱 I’m currently learning: [JavaScript + React - from zero to the result](https://www.udemy.com/course/javascript_full/)
 ### already learnd: [WEB-dev 2021](https://www.udemy.com/course/webdeveloper/)
