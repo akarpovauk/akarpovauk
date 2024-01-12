@@ -1,14 +1,20 @@
-## Hi there 👋
-# My name is Alena Karpova
-## I'm a *Front-end developer* from Cheshire UK
-## 🌱 I’m currently learning: [JavaScript + React - from zero to the result](https://www.udemy.com/course/javascript_full/)
-### already learnd: [WEB-dev 2021](https://www.udemy.com/course/webdeveloper/)
+### Hi there 👋
+## My name is Alena Karpova
+###  *Front-end developer* from Cheshire UK
+### 🌱 I’m currently learning:
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
+[JavaScript + React - from zero to the result](https://www.udemy.com/course/javascript_full/)
+### already learnd: 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
+[WEB-dev 2021](https://www.udemy.com/course/webdeveloper/)
 ### check my blog: [true_story](https://www.instagram.com/_true_story._/?hl=ru)
 ### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
 ![BEM](https://img.shields.io/badge/-BEM-white?style=for-the-badge&logo=BEM)
 ![SCSS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <!--
 **akarpovauk/akarpovauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
