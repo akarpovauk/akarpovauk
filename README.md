@@ -7,7 +7,7 @@
 ### already learnd: 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
 [WEB-dev 2021](https://www.udemy.com/course/webdeveloper/)
-### check my blog: [true_story](https://www.instagram.com/_true_story._/?hl=ru)
+
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
