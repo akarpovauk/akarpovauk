@@ -2,13 +2,14 @@
 ## My name is Alena Karpova
 ###  *Front-end developer* from Cheshire UK
 ### 🌱 I’m currently learning:
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
 [JavaScript + React - from zero to the result](https://www.udemy.com/course/javascript_full/)
 
 [JavaScript - practical course, advanced](https://www.udemy.com/share/102DVQ3@_OedTS_ZmtMcHEto0sI4dwaNAv3NxS0ZQQ7WBU3yTMuARWykZsxdrmhTnS8ixVdWNQ==/)
 ### already learnd: 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
 [WEB-dev 2021](https://www.udemy.com/course/webdeveloper/)
+
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
